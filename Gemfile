@@ -6,6 +6,7 @@ end
 
 group :test do
   gem 'capybara', '~> 2.1.0'
+  gem 'shoulda-matchers', '2.6.0'
 end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
