@@ -60,5 +60,5 @@ RSpec.configure do |config|
   # https://relishapp.com/rspec/rspec-rails/v/3-0/docs
   config.infer_spec_type_from_file_location!
   # add rspec output color
-  config.color_enabled = true
+  config.color = true
 end
